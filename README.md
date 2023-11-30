@@ -13,7 +13,7 @@ Como um `input text` que pode receber um icone ou botões de ações por exemplo
 
 - [Video do Youtube](https://www.youtube.com/watch?v=oPOKpSFqy-I&ab_channel=Rocketseat)
 
-## Autore
+## Autor
 
 - [@Diego Lopes](https://www.github.com/Diego-Lopes)
 
